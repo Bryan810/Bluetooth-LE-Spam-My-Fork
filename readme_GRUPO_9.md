@@ -45,8 +45,12 @@ El repositorio **Bluetooth-LE-Spam** es idóneo para un trabajo de cibersegurida
 - Integra escenarios ofensivos (spam) y defensivos (detección).  
 - Permite análisis comparativos multi-ecosistema.  
 
-
-
+Referencia
+Apple. (2023, diciembre 11). About the security content of iOS 17.2 and iPadOS 17.2. Apple Support. https://support.apple.com/en-us/HT214040
+Apple. (2024, septiembre 16). About the security content of iOS 18. Apple Support. https://support.apple.com/en-us/HT214188
+Bluetooth SIG. (2023). Bluetooth Core Specification Version 5.4. Bluetooth Special Interest Group. https://www.bluetooth.com/specifications/specs/core-specification-5-4/
+Dankelmann, S. (2023). Bluetooth-LE-Spam [Repositorio GitHub]. GitHub. https://github.com/simondankelmann/Bluetooth-LE-Spam
+Microsoft. (2023, julio 14). Enabling Swift Pair in Windows 10 for Bluetooth devices. Microsoft Learn. https://learn.microsoft.com/en-us/windows-hardware/drivers/bluetooth/
 
 Autores:
 -Jean Molina
