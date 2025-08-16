@@ -45,7 +45,7 @@ El repositorio **Bluetooth-LE-Spam** es idóneo para un trabajo de cibersegurida
 - Integra escenarios ofensivos (spam) y defensivos (detección).  
 - Permite análisis comparativos multi-ecosistema.  
 
-
+permite desctivcar parlantes bluetooth de vecinos molestos 
 
 
 Autores:
